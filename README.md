@@ -9,7 +9,6 @@ As a skilled data scientist with over 3 years of experience, I specialize in lev
 * 🌍  I'm based in Dartmouth, Massachusetts
 * 🖥️  See my portfolio at [https://m-armughanyaqoob.github.io/Portfolio/](http://m-armughanyaqoob.github.io/Portfolio/)
 * ✉️  You can contact me at [armughanyaqoob1433@gmail.com](mailto:armughanyaqoob1433@gmail.com)
-* 🧠  I'm learning Keras: Learning to quickly design and train deep learning models with its user-friendly API, focusing on neural network customization and experimentation with different architectures.
 * 🤝  I'm open to collaborating on Data science projects involving machine learning, predictive modeling, and advanced analytics. I'm eager to explore real-world applications, contribute to open-source tools, and exchange ideas to drive impactful solutions.
 
 ### Skills
